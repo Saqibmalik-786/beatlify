@@ -1,0 +1,6 @@
+{
+  "name": "Beatlify",
+  "description": "An elegant, modern offline-first music player with device library scanning, customized playlists, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

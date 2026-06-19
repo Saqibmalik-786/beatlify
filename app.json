@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "79168bfe-150f-4181-8be2-d05e576c11c1"
+      }
+    },
+    "android": {
+      "package": "com.saqib_sharif.beatlify"
+    }
+  }
+}

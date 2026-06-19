@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@layer utilities {
+  /* Hide scrollbars globally across browsers */
+  ::-webkit-scrollbar {
+    display: none !important;
+  }
+  
+  * {
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+  }
+
+  .custom-scrollbar {
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+  }
+}
